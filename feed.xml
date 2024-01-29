@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Batch Custom Video/Image/Audio MRSS template for BrightSign Players</title>
+  <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feed.xml</link>
+  <generator>Video/Image/Audio MRSS Generation Batch File</generator>
+  <ttl>15</ttl>
+    <item>
+        <title>Benedicts Brunch.jpg</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://github.com/statik37/pegaFeed/blob/main/Benedicts.jpg</link>
+        <description>Benedicts Brunch.jpg</description>
+        <guid>BB0027</guid>
+        <media:content url="https://github.com/statik37/pegaFeed/blob/main/Benedicts.jpg" fileSize="554647" type="image/jpeg" medium="image" duration="10"/>
+    </item>
+    <item>
+        <title>Pickles.jpg</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://github.com/statik37/pegaFeed/blob/main/Pickles.jpg</link>
+        <description>Pickles.jpg</description>
+        <guid>P0027</guid>
+        <media:content url="https://github.com/statik37/pegaFeed/blob/main/Pickles.jpg" fileSize="306613" type="image/jpeg" medium="image" duration="10"/>
+    </item>
+    <item>
+        <title>Salty.jpg</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://github.com/statik37/pegaFeed/blob/main/Bao.jpg</link>
+        <description>Rena's Italian Kitchen.jpg</description>
+        <guid>T0027</guid>
+        <media:content url="https://github.com/statik37/pegaFeed/blob/main/Bao.jpg" fileSize="420717" type="image/jpeg" medium="image" duration="10"/>
+    </item>
+    <item>
+        <title>PB.jpeg</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://github.com/statik37/pegaFeed/blob/main/</link>
+        <description>People Buddy</description>
+        <guid>P0002</guid>
+        <media:content url="https://github.com/statik37/pegaFeed/blob/main/PB.jpeg" fileSize="60830" type="image/jpeg" medium="image" duration="10"/>
+    </item>
+    <item>
+        <title>Map.jpg</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://github.com/statik37/pegaFeed/blob/main/Map.jpg</link>
+        <description>Pega Map</description>
+        <guid>M0001</guid>
+        <media:content url="https://github.com/statik37/pegaFeed/blob/main/Map.jpeg" fileSize="77339" type="image/jpeg" medium="image" duration="10"/>
+    </item>
+</channel> 
+</rss>
