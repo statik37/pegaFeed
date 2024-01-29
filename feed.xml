@@ -8,42 +8,42 @@
     <item>
         <title>Benedicts Brunch.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://github.com/statik37/pegaFeed/blob/3590ecb6d326f1f1110c03b44561c46fbaab5a31/Benedicts.jpg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg</link>
         <description>Benedicts Brunch.jpg</description>
         <guid>BB0027</guid>
-        <media:content url="https://github.com/statik37/pegaFeed/blob/3590ecb6d326f1f1110c03b44561c46fbaab5a31/Benedicts.jpg" fileSize="554647" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="554647" type="image/jpeg" medium="image" duration="10"/>
     </item>
     <item>
         <title>Pickles.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://github.com/statik37/pegaFeed/blob/8dc1fd3beb63b73d8a223ca83f39bf225f64001a/Pickles.jpg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg</link>
         <description>Pickles.jpg</description>
         <guid>P0027</guid>
-        <media:content url="https://github.com/statik37/pegaFeed/blob/8dc1fd3beb63b73d8a223ca83f39bf225f64001a/Pickles.jpg" fileSize="306613" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="306613" type="image/jpeg" medium="image" duration="10"/>
     </item>
     <item>
         <title>Salty.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://github.com/statik37/pegaFeed/blob/eac16a17dd3a99da9df2e935831ec2fe6cefb951/Bao.jpg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Bao.jpg</link>
         <description>Rena's Italian Kitchen.jpg</description>
         <guid>T0027</guid>
-        <media:content url="https://github.com/statik37/pegaFeed/blob/eac16a17dd3a99da9df2e935831ec2fe6cefb951/Bao.jpg" fileSize="420717" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Bao.jpg" fileSize="420717" type="image/jpeg" medium="image" duration="10"/>
     </item>
     <item>
         <title>PB.jpeg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://github.com/statik37/pegaFeed/blob/f864be6fd821805242145bb953aa2fbc99e6a5d9/PB.jpeg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg</link>
         <description>People Buddy</description>
         <guid>P0002</guid>
-        <media:content url="https://github.com/statik37/pegaFeed/blob/f864be6fd821805242145bb953aa2fbc99e6a5d9/PB.jpeg" fileSize="60830" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg" fileSize="60830" type="image/jpeg" medium="image" duration="10"/>
     </item>
     <item>
         <title>Map.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://github.com/statik37/pegaFeed/blob/e54ef608d77877d9738a7786c6f586fe94e2bd6e/Map.jpg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Map.jpg</link>
         <description>Pega Map</description>
         <guid>M0001</guid>
-        <media:content url="https://github.com/statik37/pegaFeed/blob/e54ef608d77877d9738a7786c6f586fe94e2bd6e/Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="10"/>
     </item>
 </channel> 
 </rss>
