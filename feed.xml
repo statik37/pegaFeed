@@ -40,10 +40,10 @@
     <item>
         <title>Map.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://github.com/statik37/pegaFeed/blob/main/Map.jpg</link>
+        <link>https://github.com/statik37/pegaFeed/blob/e54ef608d77877d9738a7786c6f586fe94e2bd6e/Map.jpg</link>
         <description>Pega Map</description>
         <guid>M0001</guid>
-        <media:content url="https://github.com/statik37/pegaFeed/blob/main/Map.jpeg" fileSize="77339" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://github.com/statik37/pegaFeed/blob/e54ef608d77877d9738a7786c6f586fe94e2bd6e/Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="10"/>
     </item>
 </channel> 
 </rss>
