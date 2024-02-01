@@ -37,6 +37,14 @@
         <guid>T0028</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Sunday.jpg" fileSize="221313" type="image/jpeg" medium="image" duration="10"/>
     </item>
+      <item>
+        <title>BHM</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/BHM.jpeg</link>
+        <description>Black History Month</description>
+        <guid>BHM</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/BHM.jpeg" fileSize="94851" type="image/jpeg" medium="image" duration="10"/>
+    </item>
     <item>
         <title>PB.jpeg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
