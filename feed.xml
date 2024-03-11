@@ -37,16 +37,14 @@
         <guid>T0033</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Masala.jpg" fileSize="439108" type="image/jpeg" medium="image" duration="10"/>
     </item>
-  <comments>
       <item>
         <title>ERG Month</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/IWM.jpeg</link>
-        <description>Black History Month</description>
+        <description>ERG Month</description>
         <guid>BHM</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/IWM.jpeg" fileSize="407465" type="image/jpeg" medium="image" duration="10"/>
     </item>
-  </coments>
     <item>
         <title>PB.jpeg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
