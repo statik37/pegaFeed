@@ -38,11 +38,11 @@
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Metro.jpg" fileSize="186412" type="image/jpeg" medium="image" duration="10"/>
     </item>
     <item>
-        <title>ERG Month</title>
+        <title>ERG</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/IWM.jpg</link>
         <description>ERG Month</description>
-        <guid>ERG0006</guid>
+        <guid>ERG0001</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/IWM.jpg" fileSize="407465" type="image/jpeg" medium="image" duration="10"/>
     </item>
     <item>
