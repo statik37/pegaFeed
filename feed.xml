@@ -13,7 +13,7 @@
         <guid>BB0037</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="459513" type="image/jpeg" medium="image" duration="10"/>
     </item>
-    <comment>
+    <comments>
     <item>
         <title>Pickles.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
@@ -22,7 +22,7 @@
         <guid>P0037</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="316748" type="image/jpeg" medium="image" duration="10"/>
     </item>
-    </comment>
+    </comments>
     <item>
         <title>Rena.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
@@ -47,7 +47,7 @@
         <guid>T0037</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Tangines.jpg" fileSize="144432" type="image/jpeg" medium="image" duration="10"/>
     </item>
-    <comment>
+    <comments>
     <item>
         <title>ERG</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
@@ -56,7 +56,7 @@
         <guid>ERG0002</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Homemade.jpg" fileSize="209716" type="image/jpeg" medium="image" duration="10"/>
     </item>
-    </comment>
+    </comments>
     <item>
         <title>PB.jpeg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
