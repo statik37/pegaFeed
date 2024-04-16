@@ -11,7 +11,7 @@
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg</link>
         <description>Benedicts Brunch.jpg</description>
         <guid>BB0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="458648" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="458648" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Pickles.jpg</title>
@@ -19,7 +19,7 @@
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg</link>
         <description>Pickles.jpg</description>
         <guid>P0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="315010" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="315010" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Rena.jpg</title>
@@ -27,7 +27,7 @@
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg</link>
         <description>Rena's Italian Kitchen.jpg</description>
         <guid>R0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg" fileSize="228665" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg" fileSize="228665" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Popup</title>
@@ -35,7 +35,7 @@
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Lazy.jpg</link>
         <description>Popup</description>
         <guid>T0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Lazy.jpg" fileSize="156194" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Lazy.jpg" fileSize="156194" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <comments>
     <item>
@@ -44,24 +44,24 @@
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Homemade.jpg</link>
         <description>ERG Month</description>
         <guid>ERG0002</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Homemade.jpg" fileSize="209716" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Homemade.jpg" fileSize="209716" type="image/jpeg" medium="image" duration="15"/>
     </item>
-    </comments>
-    <item>
+      <item>
         <title>PB.jpeg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg</link>
         <description>People Buddy</description>
         <guid>P0002</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg" fileSize="60830" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg" fileSize="60830" type="image/jpeg" medium="image" duration="15"/>
     </item>
+    </comments>
     <item>
         <title>Map.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Map.jpg</link>
         <description>Pega Map</description>
         <guid>M0001</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="10"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="15"/>
     </item>
 </channel> 
 </rss>
