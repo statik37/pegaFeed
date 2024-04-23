@@ -10,32 +10,32 @@
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg</link>
         <description>Benedicts Brunch.jpg</description>
-        <guid>BB0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="458648" type="image/jpeg" medium="image" duration="15"/>
+        <guid>BB0039</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="359334" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Pickles.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg</link>
         <description>Pickles.jpg</description>
-        <guid>P0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="315010" type="image/jpeg" medium="image" duration="15"/>
+        <guid>P0039</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="299910" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Rena.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg</link>
         <description>Rena's Italian Kitchen.jpg</description>
-        <guid>R0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg" fileSize="228665" type="image/jpeg" medium="image" duration="15"/>
+        <guid>R0039</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg" fileSize="234022" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Popup</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Lazy.jpg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Opa.jpg</link>
         <description>Popup</description>
-        <guid>T0038</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Lazy.jpg" fileSize="156194" type="image/jpeg" medium="image" duration="15"/>
+        <guid>T0039</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Opa.jpg" fileSize="258585" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <comments>
     <item>
@@ -63,5 +63,45 @@
         <guid>M0001</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="15"/>
     </item>
+    <item>
+        <title>CDays 1</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide1.jpeg</link>
+        <description>Pega Map</description>
+        <guid>CD1001</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide1.jpegg" fileSize="49866" type="image/jpeg" medium="image" duration="15"/>
+    </item>    
+    <item>
+        <title>CDays 2</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide2.jpeg</link>
+        <description>Pega Map</description>
+        <guid>CD2001</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide2.jpegg" fileSize="88902" type="image/jpeg" medium="image" duration="15"/>
+    </item>    
+    <item>
+        <title>CDays 3</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide3.jpeg</link>
+        <description>Pega Map</description>
+        <guid>CD3001</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide3.jpegg" fileSize="99659" type="image/jpeg" medium="image" duration="15"/>
+    </item>    
+    <item>
+        <title>CDays 4</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide4.jpeg</link>
+        <description>Pega Map</description>
+        <guid>CD4001</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide4.jpegg" fileSize="61643" type="image/jpeg" medium="image" duration="15"/>
+    </item>    
+    <item>
+        <title>CDays 5</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide5.jpeg</link>
+        <description>Pega Map</description>
+        <guid>CD5001</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide5.jpegg" fileSize="48548" type="image/jpeg" medium="image" duration="15"/>
+    </item>    
 </channel> 
 </rss>
