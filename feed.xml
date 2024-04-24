@@ -90,10 +90,10 @@
     <item>
         <title>CDays 4</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide4.jpeg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide4.jpg</link>
         <description>Pega Map</description>
         <guid>CD4001</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide4.jpeg" fileSize="227187" type="image/jpeg" medium="image" duration="15"/>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide4.jpg" fileSize="227187" type="image/jpeg" medium="image" duration="15"/>
     </item>    
     <item>
         <title>CDays 5</title>
@@ -102,6 +102,14 @@
         <description>Pega Map</description>
         <guid>CD5001</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide5.jpeg" fileSize="194045" type="image/jpeg" medium="image" duration="15"/>
+    </item>    
+    <item>
+        <title>CDays 6</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Slide6.jpg</link>
+        <description>Pega Map</description>
+        <guid>CD5001</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Slide6.jpg" fileSize="194045" type="image/jpeg" medium="image" duration="15"/>
     </item>    
 </channel> 
 </rss>
