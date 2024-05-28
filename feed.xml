@@ -5,6 +5,7 @@
   <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feed.xml</link>
   <generator>Video/Image/Audio MRSS Generation Batch File</generator>
   <ttl>15</ttl>
+    <comments>
     <item>
         <title>Benedicts Brunch.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
@@ -13,29 +14,30 @@
         <guid>BB0042</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="360464" type="image/jpeg" medium="image" duration="15"/>
     </item>
+    </comments>
     <item>
         <title>Pickles.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg</link>
         <description>Pickles.jpg</description>
-        <guid>P0042</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="316748" type="image/jpeg" medium="image" duration="15"/>
+        <guid>P0043</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="315010" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Rena.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg</link>
         <description>Rena's Italian Kitchen.jpg</description>
-        <guid>R0042</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg" fileSize="230507" type="image/jpeg" medium="image" duration="15"/>
+        <guid>R0043</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Rena.jpg" fileSize="224128" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>Popup</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Poke.jpg</link>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Smashed.jpg</link>
         <description>Popup</description>
-        <guid>T0042</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Poke.jpg" fileSize="476403" type="image/jpeg" medium="image" duration="15"/>
+        <guid>T0043</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Smashed.jpg" fileSize="140801" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
         <title>ERG</title>
