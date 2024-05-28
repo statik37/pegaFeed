@@ -5,16 +5,6 @@
   <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feed.xml</link>
   <generator>Video/Image/Audio MRSS Generation Batch File</generator>
   <ttl>15</ttl>
-    <comments>
-    <item>
-        <title>Benedicts Brunch.jpg</title>
-        <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg</link>
-        <description>Benedicts Brunch.jpg</description>
-        <guid>BB0042</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="360464" type="image/jpeg" medium="image" duration="15"/>
-    </item>
-    </comments>
     <item>
         <title>Pickles.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
@@ -56,6 +46,14 @@
         <guid>P0002</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg" fileSize="60830" type="image/jpeg" medium="image" duration="15"/>
     </item>
+    <item>
+        <title>Benedicts Brunch.jpg</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg</link>
+        <description>Benedicts Brunch.jpg</description>
+        <guid>BB0042</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="360464" type="image/jpeg" medium="image" duration="15"/>
+    </item>
     </comments>
     <item>
         <title>Map.jpg</title>
@@ -65,5 +63,6 @@
         <guid>M0001</guid>
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="15"/>
     </item>
+
 </channel> 
 </rss>
