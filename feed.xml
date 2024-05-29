@@ -30,32 +30,6 @@
         <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Smashed.jpg" fileSize="140801" type="image/jpeg" medium="image" duration="15"/>
     </item>
     <item>
-        <title>ERG</title>
-        <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/API.jpg</link>
-        <description>ERG Month</description>
-        <guid>ERG0003</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/API.jpg" fileSize="572918" type="image/jpeg" medium="image" duration="15"/>
-    </item>
-    <comments>
-      <item>
-        <title>PB.jpeg</title>
-        <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg</link>
-        <description>People Buddy</description>
-        <guid>P0002</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/PB.jpeg" fileSize="60830" type="image/jpeg" medium="image" duration="15"/>
-    </item>
-    <item>
-        <title>Benedicts Brunch.jpg</title>
-        <pubDate>2023-03-21T08:14:52.000z</pubDate>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg</link>
-        <description>Benedicts Brunch.jpg</description>
-        <guid>BB0042</guid>
-        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Benedicts.jpg" fileSize="360464" type="image/jpeg" medium="image" duration="15"/>
-    </item>
-    </comments>
-    <item>
         <title>Map.jpg</title>
         <pubDate>2023-03-21T08:14:52.000z</pubDate>
         <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Map.jpg</link>
