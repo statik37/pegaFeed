@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Batch Custom Video/Image/Audio MRSS template for BrightSign Players</title>
+  <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feed2.xml</link>
+  <generator>Video/Image/Audio MRSS Generation Batch File</generator>
+  <ttl>15</ttl>
+    <item>
+        <title>PegaWorld Live feed</title>
+        <pubDate>2023-03-21T08:14:52.000z</pubDate>
+        <link>https://players.brightcove.net/1900410236/pmwOPP5tn_default/index.html?videoId=6353971885112</link>
+        <description>Live Feed</description>
+        <guid>P0044</guid>
+        <media:content url="https://players.brightcove.net/1900410236/pmwOPP5tn_default/index.html?videoId=6353971885112" type="video/mpeg"/>
+    </item>
+</channel> 
+</rss>
