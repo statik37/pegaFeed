@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Batch Custom Video/Image/Audio MRSS template for BrightSign Players</title>
-  <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feed.xml</link>
+  <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feedmen.xml</link>
   <generator>Video/Image/Audio MRSS Generation Batch File</generator>
   <ttl>15</ttl>
     <item>
