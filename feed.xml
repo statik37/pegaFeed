@@ -9,7 +9,7 @@
             <pubDate>2023-03-21T08:14:52.000z</pubDate>
             <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg</link>
             <description>Pickles.jpg</description>
-            <guid isPermalink="false">P0045</guid>
+            <guid isPermalink="false">P0046</guid>
             <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="319048" type="image/jpeg" medium="image" duration="15"/>
         </item>
         <item>
@@ -17,7 +17,7 @@
             <pubDate>2023-03-21T08:14:52.000z</pubDate>
             <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Renas.jpg</link>
             <description>Rena's Italian Kitchen.jpg</description>
-            <guid isPermalink="false">R0045</guid>
+            <guid isPermalink="false">R0046</guid>
             <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Renas.jpg" fileSize="242081" type="image/jpeg" medium="image" duration="15"/>
         </item>
         <item>
@@ -25,7 +25,7 @@
             <pubDate>2023-03-21T08:14:52.000z</pubDate>
             <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Brotherly.jpg</link>
             <description>Popup</description>
-            <guid isPermalink="false">T0045</guid>
+            <guid isPermalink="false">T0046</guid>
             <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Brotherly.jpg" fileSize="173681" type="image/jpeg" medium="image" duration="15"/>
         </item>
         <item>
@@ -33,7 +33,7 @@
             <pubDate>2023-03-21T08:14:52.000z</pubDate>
             <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/RenaPizza.jpg</link>
             <description>Popup</description>
-            <guid isPermalink="false">T0145</guid>
+            <guid isPermalink="false">T0146</guid>
             <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/RenaPizza.jpg" fileSize="466697" type="image/jpeg" medium="image" duration="15"/>
         </item>
         <item>
@@ -41,7 +41,7 @@
             <pubDate>2023-03-21T08:14:52.000z</pubDate>
             <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Sabor.jpg</link>
             <description>Popup</description>
-            <guid isPermalink="false">T0245</guid>
+            <guid isPermalink="false">T0246</guid>
             <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Sabor.jpg" fileSize="204725" type="image/jpeg" medium="image" duration="15"/>
         </item>
         <item>
@@ -49,7 +49,7 @@
             <pubDate>2023-03-21T08:14:52.000z</pubDate>
             <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Map.jpg</link>
             <description>Pega Map</description>
-            <guid isPermalink="false">M0001</guid>
+            <guid isPermalink="false">M0002</guid>
             <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="15"/>
         </item>
     </channel> 
