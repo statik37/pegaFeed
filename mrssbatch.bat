@@ -52,7 +52,7 @@ rem   Edit the following lines to change the feed parameters and feed output fil
 
 rem Base URL for where the files are located on the web server - MUST include trailing slash, internal servers should use FQDN
 rem Example: http://192.168.1.10/mrss/  or  http://internalserver.mydomain.net/mrss/
-SET BaseUrl=https://raw.githubusercontent.com/statik37/pegaFeed/main
+SET BaseUrl=https://raw.githubusercontent.com/statik37/pegaFeed/main/
 
 rem Image on-screen duration in seconds
 SET TimeDisplayedOnScreenInSeconds=15
@@ -64,7 +64,7 @@ rem Filename to generate the MRSS feed as - enclose in double-quotes (") if the 
 rem Example: C:\InetPub\wwwroot\MRSS\mrss.xml  or  "D:\For BrightSign\MRSS\feed.xml"
 rem NOTE: Link tag of generated feed will not necessarily reflect the correct feed file's URL - this does not affect operation
 rem NOTE: filename is *not* URL-escaped so avoid spaces and non-alphanumeric characters.
-SET OutputFileName=feed2.xml
+SET OutputFileName=feed.xml
 
 rem +===============================================+
 rem +             END OF CONFIGURATION              +

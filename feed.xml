@@ -1,56 +1,49 @@
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-    <channel>
-        <title>Batch Custom Image MRSS template for BrightSign Players</title>
-        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feed.xml</link>
-        <generator>Image MRSS Generator Batch File</generator>
-        <ttl>15</ttl>
-        <item>
-            <title>Pickles.jpg</title>
-            <pubDate>2023-03-21T08:14:52.000z</pubDate>
-            <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg</link>
-            <description>Pickles.jpg</description>
-            <guid isPermalink="false">P0047</guid>
-            <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Pickles.jpg" fileSize="361218" type="image/jpeg" medium="image" duration="15"/>
-        </item>
-        <item>
-            <title>Rena.jpg</title>
-            <pubDate>2023-03-21T08:14:52.000z</pubDate>
-            <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Renas.jpg</link>
-            <description>Rena's Italian Kitchen.jpg</description>
-            <guid isPermalink="false">R0047</guid>
-            <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Renas.jpg" fileSize="204571" type="image/jpeg" medium="image" duration="15"/>
-        </item>
-        <item>
-            <title>Popup</title>
-            <pubDate>2023-03-21T08:14:52.000z</pubDate>
-            <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Brotherly.jpg</link>
-            <description>Popup</description>
-            <guid isPermalink="false">T0047</guid>
-            <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Brotherly.jpg" fileSize="327360" type="image/jpeg" medium="image" duration="15"/>
-        </item>
-        <item>
-            <title>Popup2</title>
-            <pubDate>2023-03-21T08:14:52.000z</pubDate>
-            <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/RenaPizza.jpg</link>
-            <description>Popup</description>
-            <guid isPermalink="false">T0147</guid>
-            <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/RenaPizza.jpg" fileSize="413598" type="image/jpeg" medium="image" duration="15"/>
-        </item>
-        <item>
-            <title>Popup</title>
-            <pubDate>2023-03-21T08:14:52.000z</pubDate>
-            <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Sabor.jpg</link>
-            <description>Popup</description>
-            <guid isPermalink="false">T0247</guid>
-            <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Sabor.jpg" fileSize="281593" type="image/jpeg" medium="image" duration="15"/>
-        </item>
-        <item>
-            <title>Map.jpg</title>
-            <pubDate>2023-03-21T08:14:52.000z</pubDate>
-            <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Map.jpg</link>
-            <description>Pega Map</description>
-            <guid isPermalink="false">M0002</guid>
-            <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main//Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="15"/>
-        </item>
-    </channel> 
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Batch Custom Video/Image/Audio MRSS template for BrightSign Players</title>
+  <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/feed.xml</link>
+  <generator>Video/Image/Audio MRSS Generation Batch File</generator>
+  <ttl>5</ttl>
+    <item>
+        <title>1Pickles.jpg</title>
+        <pubDate>2024-06-17T07:41:05.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/1Pickles.jpg</link>
+        <description>1Pickles.jpg</description>
+        <guid>1Pickles.jpg2f9fd56bfdef808afd0d5c1e3ed6b6e45c2808e6</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/1Pickles.jpg" fileSize="316748" type="image/jpeg" medium="image" duration="15"/>
+    </item>
+    <item>
+        <title>2Rena.jpg</title>
+        <pubDate>2024-06-17T07:41:05.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/2Rena.jpg</link>
+        <description>2Rena.jpg</description>
+        <guid>2Rena.jpg8cc976022f751b6e6c802dc32e29027866999f64</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/2Rena.jpg" fileSize="226927" type="image/jpeg" medium="image" duration="15"/>
+    </item>
+    <item>
+        <title>3Cluck.jpg</title>
+        <pubDate>2024-06-17T07:41:05.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/3Cluck.jpg</link>
+        <description>3Cluck.jpg</description>
+        <guid>3Cluck.jpg79b1ec05e55d327baad2df679fae1ff88ea3775b</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/3Cluck.jpg" fileSize="167681" type="image/jpeg" medium="image" duration="15"/>
+    </item>
+    <item>
+        <title>4Poke.jpg</title>
+        <pubDate>2024-06-17T07:41:05.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/4Poke.jpg</link>
+        <description>4Poke.jpg</description>
+        <guid>4Poke.jpg5ec9cd12d800893fa684772c9b4795c070cc1e1a</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/4Poke.jpg" fileSize="316452" type="image/jpeg" medium="image" duration="15"/>
+    </item>
+    <item>
+        <title>Map.jpg</title>
+        <pubDate>2024-06-17T07:41:05.000z</pubDate>
+        <link>https://raw.githubusercontent.com/statik37/pegaFeed/main/Map.jpg</link>
+        <description>Map.jpg</description>
+        <guid>Map.jpg09cb5c0a78d00ebd7e5578325b2d0f9013d707e3</guid>
+        <media:content url="https://raw.githubusercontent.com/statik37/pegaFeed/main/Map.jpg" fileSize="77339" type="image/jpeg" medium="image" duration="15"/>
+    </item>
+</channel>
 </rss>
